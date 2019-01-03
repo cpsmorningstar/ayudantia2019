@@ -1,3 +1,3 @@
 esta mi primera linea
-esta mi segunda linea
+
 esta mi tercera linea 
